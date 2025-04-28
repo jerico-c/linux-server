@@ -1,0 +1,13 @@
+;
+; BIND reverse data file for broadcast zone
+;
+$TTL	604800
+@	IN	SOA	jarkomless.com. root.jarkomless.com. (
+			      1		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	jarkomless.com.
+1	IN	PTR	jarkomless.com.
