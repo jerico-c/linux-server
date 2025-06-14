@@ -6,3 +6,10 @@ Membuat Linux Server dengan komponen :
 5. DNS : bind9
 6. FTP : fttpd
 
+![desktop](images/desktop.jpeg)
+
+![mobile](images/mobile.jpeg)
+
+![phpmyadmin](images/phpmyadmin.jpeg)
+
+![dns](images/dns.jpeg)
